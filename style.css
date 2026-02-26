@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    font-size: 30px;
+}
+p{ font-size: 20px; color: rgb(68, 0, 255); }
+
+.standout:hover {
+    background-color: green;
+}
+
+.i1:hover{    border-radius: 50%;}
+.i2:hover {    border-radius: 30px;}
+.i3:hover {    opacity: 0.6;}
+.i4:hover{    filter: grayscale(70%);}
+.i5:hover {    filter: blur(10px);}
+
